@@ -1,7 +1,8 @@
 👋 Hi,
+
 🔭 I’m currently working on ... Natural Language Processing
 
-🌱 I’m currently learning ... Deep Learning Techniques ,  High level 
+🌱 I’m currently learning ... Deep Learning Techniques ,  High level of statistics
 
 👯 I’m looking to collaborate on ... Time Series Stock Market Prediction 
 
